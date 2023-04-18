@@ -5,6 +5,7 @@ var builder = WebApplication.CreateBuilder(args); //Servidor
 //creating the logger and setting up sinks, filters and properties
 Log.Logger = new LoggerConfiguration()
     .WriteTo.Console()
+    .WriteTo.File("logs/xxx.log", rollingInterval: RollingInterval.Day)
     .CreateBootstrapLogger();
 
 
