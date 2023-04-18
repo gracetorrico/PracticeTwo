@@ -30,3 +30,4 @@ E:\UPB\2023\CertificaciónI\Primer Parcial\Practice2\repo-practice2\PracticeTwo\
 E:\UPB\2023\CertificaciónI\Primer Parcial\Practice2\repo-practice2\PracticeTwo\obj\Debug\net6.0\PracticeTwo.pdb
 E:\UPB\2023\CertificaciónI\Primer Parcial\Practice2\repo-practice2\PracticeTwo\obj\Debug\net6.0\PracticeTwo.genruntimeconfig.cache
 E:\UPB\2023\CertificaciónI\Primer Parcial\Practice2\repo-practice2\PracticeTwo\obj\Debug\net6.0\ref\PracticeTwo.dll
+E:\UPB\2023\CertificaciónI\Primer Parcial\Practice2\repo-practice2\PracticeTwo\bin\Debug\net6.0\appsettings.QA.json
